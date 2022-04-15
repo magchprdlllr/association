@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+    color: cornflowerblue;
+  }
+  .logo {
+    height:10rem;
+    width: auto;
+    float: left;
+  }
+  .asso-name {
+    font-size: 50px;
+    font-weight: 500;
+    padding: 25px;
+  }
